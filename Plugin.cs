@@ -34,6 +34,7 @@ public class Plugin : BasePlugin
         {
             foreach (var preset in Toolbox.Instance.allFurniture)
             {
+                preset.disableFromDecorMenu = false;
                 preset.purchasable = true;
             }
             return true;

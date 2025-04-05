@@ -1,7 +1,7 @@
 {
   "name": "MailOrderMayhem",
   "description": "Removes sanity filters from interior decoration options",
-  "version_number": "0.1.0",
-  "dependencies": ["BepInEx-BepInExPack_IL2CPP-6.0.667"],
+  "version_number": "0.2.0",
+  "dependencies": ["BepInEx-BepInExPack_IL2CPP-6.0.698"],
   "website_url": "https://github.com/shroudednight/MailOrderMayhem"
 }
