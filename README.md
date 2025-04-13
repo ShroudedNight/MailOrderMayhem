@@ -8,3 +8,7 @@ Throw off the yoke of flat-pack, and load up on the mania of all assembly requir
 ### Surgeons General's warning:
 
 Catalogue items may rend the fabric of reality. Ensure proper tether to a multiverse restore point before proceeding.
+
+### Credits
+* _credenza [Discord] - Discovering + filling out the DDS CSV for missing object identifiers.
+* @piepieonline - Integrating CSV with their DDSLoader and submitting PR
